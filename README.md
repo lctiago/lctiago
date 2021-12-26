@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-### Sobre
+### :information_source: Sobre
 - Sou estudante de Ciência da Computação na <a href="https://www.ufs.br/">UFS</a>
 - Tenho interesse em desenvolvimento web, principalmente o <b>backend</b>
 - Costumo usar a stack javascript em meus projetos
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30 />
 </div>
 
-### Estudos
+### :notebook_with_decorative_cover: Estudos
 
 Ultimamente tenho aprendido:
 - Modelagem de recursos REST
